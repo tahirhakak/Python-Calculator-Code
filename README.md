@@ -14,7 +14,7 @@ print("1. Add \n"
       "5. My Github Link")
 
 select = int(input("Enter 1-5: "))
-# if user select 1
+
 if select >= 6:
   print("Error, You Entered Wrong Number")
 if select == 1:
@@ -85,7 +85,6 @@ if select == 1:
       print("My Github Link: https://github.com/tahirhakak")
       exit()
 
-# If user select 2
 
 if select == 2:
     print("You Entered 2:")
@@ -152,7 +151,6 @@ if select == 2:
       print("My Github Link: https://github.com/tahirhakak")
       exit()
 
-# If user select 3
 
 if select == 3:
     print("You Entered 3:")
@@ -220,7 +218,6 @@ if select == 3:
       print("My Github Link: https://github.com/tahirhakak")
       exit()
 
-# If user select 4
 
 if select == 4:
     print("You Entered 4:")
@@ -288,7 +285,6 @@ if select == 4:
       print("My Github Link: https://github.com/tahirhakak")
       exit()
 
-# If user select 5
 
 if select == 5:
   print("My Github Link: https://github.com/tahirhakak")
